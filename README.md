@@ -3,7 +3,7 @@ Project Jakos puts you in command to build a army and military base while defend
 
 Project Jakos is created with Unreal Engine 5.3 and is a work in progress that is currently in the early alpha stages at the moment.
 
-Pre-Release Download: Coming Soon!
+Pre-Release Download: https://github.com/AkumaVenom/ProjectJakos-UE5-PackagedGame/releases
 
 =======================================================================
 
